@@ -1,6 +1,6 @@
 # Hi, I'm Prafull Joshi 👋
 
-BCA student at **Uttaranchal University, Dehradun**, also studying **Data Science & AI** at **BITS Pilani Digital**.
+BCA student at **Uttaranchal University, Dehradun**, also studying **Data Science & AI** .
 
 I like turning textbook concepts into small programs that explain themselves, starting with C and moving towards data.
 
