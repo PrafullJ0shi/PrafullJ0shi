@@ -1,28 +1,29 @@
-# Hi, I'm Prafull Joshi 👋
+# Prafull Joshi
 
-BCA student at **Uttaranchal University, Dehradun**, also studying **Data Science & AI** .
+**Student developer working in C, data structures and Python, moving towards data science.**
 
-I like turning textbook concepts into small programs that explain themselves, starting with C and moving towards data.
+I build small, carefully engineered programs that make a concept easy to see: a linked list you can inspect, an interest formula that explains its own numbers, a course turned into a game. I care about clean modular code, tests, and documentation that a reader can follow without asking me.
 
-### 📚 Currently learning
-- **C** — pointers, file handling and clean, portable code
-- **Data Structures** — arrays, linked lists, stacks, queues, trees
-- **Python** — scripting and data handling
-- **Data Science** — statistics, NumPy, pandas and visualisation
+## Selected work
 
-### 🛠️ Tools
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [student-record-system](https://github.com/PrafullJ0shi/student-record-system) | A terminal register for student records: linked-list store, checksummed file format, CSV import and export, and cohort statistics drawn as terminal charts. 207 unit tests, sanitizer- and Valgrind-clean CI. | C11, Make, CMake |
+| [computing-systems-arena](https://github.com/PrafullJ0shi/computing-systems-arena) | A study game for Computing Systems with 13 weekly worlds, simulators, mock exams and flashcards. [Play it in the browser](https://prafullj0shi.github.io/computing-systems-arena/). | React, TypeScript, Vite |
+| [RupeeClarity](https://github.com/PrafullJ0shi/RupeeClarity) | A menu-driven program that calculates, compares and explains simple and compound interest in rupees, with year-by-year tables and the Rule of 72. | C |
+| [CareerConnect](https://github.com/PrafullJ0shi/CareerConnect) | A job portal web application with listings, applications and accounts. | Python, Flask, SQLite |
 
-### 🚀 Featured project
-**[RupeeClarity](https://github.com/PrafullJ0shi/RupeeClarity)** — *Interest that Talks Back.* A menu-driven C program that calculates, compares and explains Simple and Compound Interest in Rupees, with a year-by-year table, Rule of 72, story mode and a saved text report. Built as my BCA-I Programming in C Lab project.
+## What I work with
 
-### 🔭 Currently working on
-Data structures in C, and Python for my Data Science & AI coursework.
+- **Languages:** C, Python, TypeScript
+- **Systems:** pointers and memory, file handling, linked lists, stacks, queues and trees
+- **Data:** statistics, NumPy, pandas and visualisation
+- **Tooling:** Git, GitHub Actions, Linux, Make, CMake, Valgrind
 
-### 📊 GitHub stats
-![Prafull's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrafullJ0shi&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrafullJ0shi&layout=compact&hide_border=true)
+## Now
+
+Going deeper into data structures in C and building toward data science with Python.
+
+## Contact
+
+Open an issue on any project, or reach me through [GitHub](https://github.com/PrafullJ0shi).
