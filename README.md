@@ -18,7 +18,7 @@ I build practical Python tools: automation, scraping, AI chatbots, data analysis
 
 ## Projects
 
-**[BinBuddy](https://github.com/PrafullJ0shi/binbuddy)** · [demo video](https://youtu.be/9O1hh541y_8) · [Devpost](https://devpost.com/software/binbuddy-dyuc2z)  
+**[BinBuddy](https://github.com/PrafullJ0shi/binbuddy)** · [demo video](https://youtu.be/uBPQeNbHhQM) · [Devpost](https://devpost.com/software/binbuddy-dyuc2z)  
 An offline helper that suggests wet, dry, or reject for household waste and gives a short tip. Type a description; a scikit-learn model classifies it locally.
 
 **[ductus](https://github.com/PrafullJ0shi/ductus)**  
@@ -33,7 +33,7 @@ A public-data reading of Bitcoin positioning among Hyperliquid one-month leaders
 **[Metal Future Forecast](https://github.com/PrafullJ0shi/metal-future-forecast)** · [live site](https://prafullj0shi.github.io/metal-future-forecast/)  
 Long or short calls for gold and silver from where Hyperliquid’s top 500 wallets sit, refreshed every 30 minutes, with a published backtest.
 
-**[GhostLedger](https://github.com/PrafullJ0shi/ghostledger)**  
+**[GhostLedger](https://github.com/PrafullJ0shi/ghostledger)** · [demo video](https://youtu.be/e6PdNCmWoQI)  
 A local-first expense ledger for Kiroween 2026: drop receipt text or a UPI SMS, keep a CSV, and query it from a terminal UI or a local web dashboard.
 
 ## Links
